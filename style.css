@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.button {
+  width: 95px;
+  height: 95px;
+  background-color: transparent;
+  border:none;
+  cursor: pointer;
+}
